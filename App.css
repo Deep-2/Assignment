@@ -1,0 +1,10 @@
+.jumbotron{
+background-color: rgb(89, 154, 73);
+color: blue;
+}
+.ipv4{
+  background-color: aqua;
+}
+.ipv6{
+  background-color: aquamarine;
+}
